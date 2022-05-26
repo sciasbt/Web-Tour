@@ -83,7 +83,8 @@ body.multiple-scenes.mobile #titleBar {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-
+  font-size: 25px;
+  font-family: Caveat;
   -moz-user-select: text;
   -webkit-user-select: text;
   -ms-user-select: text;
