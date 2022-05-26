@@ -256,7 +256,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   top: 0;
   left: -220px;
   padding-top: 40px;
-  width: 220px;
+  width: 266px;
   max-height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
@@ -296,7 +296,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 #sceneList .scene {
   display: block;
   width: 100%;
-  height: 30px;
+  height: 45px;
 }
 
 .mobile #sceneList .scene {
@@ -311,6 +311,8 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  font-family: Caveat;
+  font-size: 25px;
 }
 
 .mobile #sceneList .scene .text {
