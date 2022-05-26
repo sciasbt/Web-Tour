@@ -254,7 +254,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 #sceneList {
   position: absolute;
   top: 0;
-  left: -220px;
+  left: -266px;
   padding-top: 40px;
   width: 266px;
   max-height: 100%;
@@ -289,7 +289,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 #sceneList.enabled {
-  margin-left: 220px;
+  margin-left: 266px;
 }
 
 #sceneList .scene {
